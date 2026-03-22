@@ -2,7 +2,7 @@
 
 ## Fábio Prataviera
 
-Professor – ESALQ, University of São Paulo (USP)  
+Professor – ESALQ – University of São Paulo (USP)  
 Department of Exact Sciences  
 
 Faculty member of the Graduate Program in  
