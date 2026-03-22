@@ -54,7 +54,7 @@ My research focuses on the development and application of **statistical methods 
 ## 🏛️ Institutional Links
 🎓 [ESALQ – University of São Paulo](https://www.esalq.usp.br)
 📊 [Graduate Program in Statistics and Agronomic Experimentation](https://www.esalq.usp.br/pg/programas/estatistica/)
-👨‍🏫 [Department of Exact Sciences – ESALQ/USP]([LINK_DA_SUA_PAGINA](http://www.lce.esalq.usp.br/equipe/docentes))
+👨‍🏫 [Department of Exact Sciences – ESALQ/USP](http://www.lce.esalq.usp.br/equipe/docentes)
 
 ---
 
