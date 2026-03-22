@@ -29,7 +29,7 @@ Piracicaba, São Paulo, Brazil
 ![Data Science](https://img.shields.io/badge/Field-Data%20Science-orange)
 
 Primary environment: **R**
-
+![R](https://img.shields.io/badge/Primary%20Environment-R-blue)
 ---
 
 ## 🇧🇷 Sobre mim
