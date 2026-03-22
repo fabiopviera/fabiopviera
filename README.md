@@ -28,7 +28,6 @@ Piracicaba, São Paulo, Brazil
 ![Statistics](https://img.shields.io/badge/Field-Statistics-green)
 ![Data Science](https://img.shields.io/badge/Field-Data%20Science-orange)
 
-Primary environment: **R**
 ![R](https://img.shields.io/badge/Primary%20Environment-R-blue)
 ---
 
@@ -60,7 +59,16 @@ My research focuses on the development and application of **statistical methods 
 
 ## 📊 GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiopviera&show_icons=true&theme=default)
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiopviera&show_icons=true" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopviera&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ---
 
