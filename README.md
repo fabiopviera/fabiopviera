@@ -59,16 +59,9 @@ My research focuses on the development and application of **statistical methods 
 
 ## 📊 GitHub Statistics
 
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiopviera&show_icons=true" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopviera&layout=compact" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopviera&layout=compact" />
+</p>
 
 ---
 
