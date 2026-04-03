@@ -57,13 +57,6 @@ My research focuses on the development and application of **statistical methods 
 
 ---
 
-## 📊 GitHub Statistics
-
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopviera&layout=compact" />
-</p>
-
----
 
 ## 📫 Contact
 ✉️ [fabio_prataviera@usp.br](mailto:fabio_prataviera@usp.br)
