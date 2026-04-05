@@ -56,8 +56,24 @@ My research focuses on the development and application of **statistical methods 
 👨‍🏫 [Department of Exact Sciences – ESALQ/USP](http://www.lce.esalq.usp.br/equipe/docentes)
 
 ---
+## 📊 GitHub Statistics
 
+<table>
+<tr>
+<td>
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=fabiopviera&show_icons=true" />
+
+</td>
+<td>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopviera&layout=compact" />
+
+</td>
+</tr>
+</table>
+
+---
 ## 📫 Contact
 ✉️ [fabio_prataviera@usp.br](mailto:fabio_prataviera@usp.br)
 📄 [Lattes CV](https://lattes.cnpq.br/3225385085167748)  
