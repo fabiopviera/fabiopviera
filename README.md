@@ -2,8 +2,7 @@
 
 ## Fábio Prataviera
 
-Professor – ESALQ – University of São Paulo (USP)  
-Department of Exact Sciences  
+University of Sao Paulo (USP)
 
 Faculty member of the Graduate Program in  
 Statistics and Agronomic Experimentation  
