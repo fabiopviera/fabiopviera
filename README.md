@@ -76,5 +76,4 @@ My research focuses on the development and application of **statistical methods 
 ## 📫 Contact
 ✉️ [fabio_prataviera@usp.br](mailto:fabio_prataviera@usp.br)
 📄 [Lattes CV](https://lattes.cnpq.br/3225385085167748)  
-🔬 [ORCID](https://orcid.org/0000-0001-8190-1086)
 📚 [Google Scholar](https://scholar.google.com.br/citations?user=tVAatW4AAAAJ&hl=pt-BR)
