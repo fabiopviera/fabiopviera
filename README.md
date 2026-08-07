@@ -73,6 +73,7 @@ My research focuses on the development and application of **statistical methods 
 </td>
 </tr>
 </table>
+
 ---
 ## 📫 Contact
 ✉️ [fabio_prataviera@usp.br](mailto:fabio_prataviera@usp.br)
